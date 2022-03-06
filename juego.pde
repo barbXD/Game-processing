@@ -22,7 +22,7 @@ void setup(){
     size(800, 800);
     background(54, 187, 245);
     
-    // Carga de todos los assets que podamos necesitar
+    // Carga de todos los assets
 
     cuboY = loadImage("cubo basura amarillo.png");
     cuboB = loadImage("cubo basura azul.png");
@@ -33,10 +33,10 @@ void setup(){
     tetrabrikPU = loadImage("tetrabrik_morado.png");
     tetrabrikOR = loadImage("tetrabrik_naranja.png");
     can1 = loadImage("lata_abierta.png");
-    can2 = loadImage(".png");
+    /*can2 = loadImage(".png");
     can3 = loadImage(".png");
     can4 = loadImage(".png");
-
+    */
 }
 
 void draw(){
@@ -66,9 +66,9 @@ void draw(){
 
     // Los cubos de basura
     imageMode(CENTER);
-    image(cuboY, width/5, height-altura);
-    image(cuboB, width*2/5, height-altura);
-    image(cuboG, width*3/5, height-altura);
-    image(cuboR, width*4/5, height-altura);
+    image(cuboY, width/6, height-altura);
+    image(cuboB, width*1.9/5, height-altura);
+    image(cuboG, width*3.1/5, height-altura);
+    image(cuboR, width*5/6, height-altura);
     
 }
