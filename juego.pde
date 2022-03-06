@@ -8,6 +8,14 @@ PImage cuboY;
 PImage cuboB;
 PImage cuboR;
 PImage cuboG;
+PImage bolaP1;
+PImage bolaP2;
+PImage tetrabrikPU;
+PImage tetrabrikOR;
+PImage can1;
+PImage can2;
+PImage can3;
+PImage can4;
 
 void setup(){
 
