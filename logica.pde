@@ -6,12 +6,12 @@ class BotonMenu {
     int w = 140;
     int h = 80;
 
-    BotonMenu(){
+    BotonMenu() {
 
 
     }
 
-    void show(){
+    void show() {
 
         noStroke();
         rectMode(CENTER);
