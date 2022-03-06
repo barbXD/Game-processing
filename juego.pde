@@ -105,15 +105,8 @@ void draw(){
 
 void mousePressed() {
     
-    // if (mouseX >= boton.x - (boton.w)/2 &&
-    //     mouseX
+    boolean  menu() {
 
-    //    ) {
         
-
-    
-        if(menu == true){
-            menu = false;
-        }
-    // }
+    }
 }
