@@ -28,6 +28,15 @@ void setup(){
     cuboB = loadImage("cubo basura azul.png");
     cuboG = loadImage("cubo basura verde.png");
     cuboR = loadImage("cubo basura rojo.png");
+    bolaP1 = loadImage("bola_papel1.png");
+    bolaP2 = loadImage("bola_papel2.png");
+    tetrabrikPU = loadImage("tetrabrik_morado.png");
+    tetrabrikOR = loadImage("tetrabrik_naranja.png");
+    can1 = loadImage("lata_abierta.png");
+    can2 = loadImage(".png");
+    can3 = loadImage(".png");
+    can4 = loadImage(".png");
+
 }
 
 void draw(){
