@@ -3,6 +3,8 @@
 int suelo = 150;
 int altura = suelo + 104;
 
+boolean menu = true;
+
 // Variables para las imagenes
 PImage cuboY;
 PImage cuboB;
