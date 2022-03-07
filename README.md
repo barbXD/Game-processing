@@ -5,7 +5,7 @@ that is if it's ever finished.
 
 I'll leave a .exe here once it's finished.
 
-Feel free to look into my code but you are probably not going to learn anything useful from it. The code it's * **messy** * to say the least.
+Feel free to look into my code but you are probably not going to learn anything useful from it. The code it's ***messy*** to say the least.
 
 I'll appreciate any tips, I'm pretty new to programming. 
 
